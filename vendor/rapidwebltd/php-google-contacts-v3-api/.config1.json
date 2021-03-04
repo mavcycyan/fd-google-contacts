@@ -1,0 +1,7 @@
+{
+    "clientID": "78704863339-6mps8sc7kvcg4u2g08ciepb0ln6po0rh.apps.googleusercontent.com",
+    "clientSecret": "nA2_ADFKIgurLuUdVv_1WEql",
+    "redirectUri": "https://freedivinguae.com/wp-content/themes/shaka-pt/inc/g-contacts-api/vendor/rapidwebltd/php-google-contacts-v3-api/redirect-handler.php",
+    "developerKey": "",
+    "refreshToken": ""
+}

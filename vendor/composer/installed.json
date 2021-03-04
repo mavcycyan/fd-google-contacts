@@ -1,0 +1,86 @@
+[
+    {
+        "name": "google/apiclient",
+        "version": "v1.1.8",
+        "version_normalized": "1.1.8.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/googleapis/google-api-php-client.git",
+            "reference": "85309a3520bb5f53368d43e35fd24f43c9556323"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/85309a3520bb5f53368d43e35fd24f43c9556323",
+            "reference": "85309a3520bb5f53368d43e35fd24f43c9556323",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.1"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*",
+            "squizlabs/php_codesniffer": "~2.3"
+        },
+        "time": "2016-06-06T21:22:48+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-v1-master": "1.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/Google/autoload.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "description": "Client library for Google APIs",
+        "homepage": "http://developers.google.com/api-client-library/php",
+        "keywords": [
+            "google"
+        ]
+    },
+    {
+        "name": "rapidwebltd/php-google-contacts-v3-api",
+        "version": "v2.0.0",
+        "version_normalized": "2.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rapidwebltd/php-google-contacts-v3-api.git",
+            "reference": "5efb7edc75a96bb264896c438335ef64578dcfd3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rapidwebltd/php-google-contacts-v3-api/zipball/5efb7edc75a96bb264896c438335ef64578dcfd3",
+            "reference": "5efb7edc75a96bb264896c438335ef64578dcfd3",
+            "shasum": ""
+        },
+        "require": {
+            "google/apiclient": ">=1.1.4 <2.0.0",
+            "php": ">=5.2.1"
+        },
+        "time": "2017-10-13T08:29:25+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "rapidweb\\googlecontacts\\": "."
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "PHP library for the Google Contacts API (v3)",
+        "homepage": "https://github.com/rapidwebltd/php-google-contacts-v3-api",
+        "keywords": [
+            "contacts",
+            "google",
+            "php"
+        ]
+    }
+]

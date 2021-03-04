@@ -1,0 +1,7 @@
+{
+    "clientID": "78704863339-t1m0c6uioqf2rvf2e8fbps2ne9hi6nms.apps.googleusercontent.com",
+    "clientSecret": "p1AEkkXNqtLsIp4Fh_fQLLw2",
+    "redirectUri": "http://localhost/vendor/rapidwebltd/php-google-contacts-v3-api/redirect-handler.php",
+    "developerKey": "",
+    "refreshToken": "1//0ciOvJckF8D3BCgYIARAAGAwSNwF-L9IreFaOjqyZ5JGYocMqQPypY0jACZCXQnn28pYBlGzMsmjPeu7_FSm-BQIZD8wqmc4kE3E"
+}
